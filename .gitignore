@@ -23,6 +23,7 @@ outputs/*
 
 # Model cache downloaded by Shap-E
 ~/.cache/
+shap_e_model_cache/
 
 # OS
 .DS_Store
