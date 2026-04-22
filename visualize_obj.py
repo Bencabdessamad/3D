@@ -1,5 +1,6 @@
 """
 Visualize an exported .obj file with Open3D.
+Auteur : BENCHERAIK Abdessamad
 
 Usage:
     python visualize_obj.py outputs/a_red_wooden_chair.obj

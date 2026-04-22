@@ -1,5 +1,6 @@
 """
 Text-to-3D generation using Shap-E (OpenAI).
+Auteur : BENCHERAIK Abdessamad
 
 Usage:
     python generate_3d.py --prompt "a red wooden chair" --output-dir outputs

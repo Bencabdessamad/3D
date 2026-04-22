@@ -1,5 +1,7 @@
 # Modèles de Diffusion 3D — Démo Shap-E
 
+**Auteur :** BENCHERAIK Abdessamad
+
 Démonstration pratique de génération **texte → 3D** avec [Shap-E](https://github.com/openai/shap-e) (OpenAI), Open3D et PyTorch.
 
 > Projet universitaire : *Modèles de Diffusion 3D : Fondements, Architectures et Applications en Génération de Contenu 3D*
@@ -138,3 +140,11 @@ Shap-E apprend une représentation latente d'objets 3D conditionnée sur du text
 - Jun et al., *Shap-E: Generating Conditional 3D Implicit Functions*, 2023 — [arXiv:2305.02463](https://arxiv.org/abs/2305.02463)
 - Ho et al., *Denoising Diffusion Probabilistic Models*, NeurIPS 2020
 - Mildenhall et al., *NeRF: Representing Scenes as Neural Radiance Fields*, ECCV 2020
+
+---
+
+## Contributeur
+
+| Nom | Rôle |
+|---|---|
+| BENCHERAIK Abdessamad | Auteur — Projet universitaire |

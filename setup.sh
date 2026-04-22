@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # Bootstrap the Shap-E demo environment.
+# Auteur : BENCHERAIK Abdessamad
 # Usage: bash setup.sh [--cpu]   (default: GPU/CUDA)
 
 set -euo pipefail
