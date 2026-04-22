@@ -1,0 +1,15 @@
+torch>=2.0.0
+torchvision>=0.15.0
+filelock
+Pillow
+tqdm
+scipy
+numpy
+matplotlib
+requests
+ipython
+open3d>=0.17.0
+imageio[ffmpeg]
+trimesh
+# Shap-E is installed directly from source (see README / setup instructions)
+# pip install git+https://github.com/openai/shap-e.git

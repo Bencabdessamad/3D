@@ -1,0 +1,25 @@
+name: shap-e-demo
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch>=2.0.0
+  - torchvision>=0.15.0
+  - pytorch-cuda=11.8        # change to cpu if no GPU
+  - pip
+  - pip:
+    - filelock
+    - Pillow
+    - tqdm
+    - scipy
+    - numpy
+    - matplotlib
+    - requests
+    - ipython
+    - open3d>=0.17.0
+    - imageio[ffmpeg]
+    - trimesh
+    - git+https://github.com/openai/shap-e.git
